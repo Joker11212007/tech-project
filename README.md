@@ -1,1 +1,1 @@
-# cpp-algorithm-class
+# tech-project
